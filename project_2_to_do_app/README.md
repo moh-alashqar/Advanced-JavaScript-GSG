@@ -27,3 +27,4 @@ Select an action:
 What's your choice?
 
 ---
+![carbon](https://github.com/moh-alashqar/Advanced-JavaScript-GSG/assets/61499469/c4f65f45-be34-457d-9184-bbe07faf8fde)
