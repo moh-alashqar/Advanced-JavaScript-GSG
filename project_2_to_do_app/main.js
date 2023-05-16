@@ -14,8 +14,6 @@ function processMenu(param){
             var title = Utilities.getUserInput(Consts.TITLE_MESSAGE);
             var taskDesc = Utilities.getUserInput(Consts.DESC_MESSAGE);
             var dueDate = Utilities.getUserInput(Consts.DATE_MESSAGE);
-            console.log(dueDate)
-            console.log(Utilities.checkDate(dueDate))
             while(!Utilities.checkDate(dueDate)){
                 console.log(Consts.ERROR_DATE);
                 dueDate = Utilities.getUserInput(Consts.DATE_MESSAGE);
